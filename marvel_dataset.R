@@ -1,6 +1,6 @@
 # ============================================================
 # marvel_dataset.R
-# Marvel MCU Movies — Box Office & Reviews Analysis
+# Marvel MCU Movies - Box Office & Reviews Analysis
 # Author: D. Shivani
 # Built: November 2024
 # ============================================================
